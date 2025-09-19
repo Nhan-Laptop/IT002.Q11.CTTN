@@ -37,12 +37,13 @@ func(f, g);   // gọi hàm float
 ```
 
 Kết quả xuất ra:
+```py
 So thuc: 0 0
 So nguyen: 1 0
 So thuc: 1.5 0
 So nguyen: 1 2
 So thuc: 1.5 2.5
-
+```
 ## 📝 Task 2 – Làm việc với phân số
 ### a. Rút gọn phân số
 
@@ -80,13 +81,14 @@ Nhập: a/b, c/d
 Xuất: kết quả 4 phép toán trên phân số.
 
 Ví dụ:
-
+```py
 Nhap phan so tu a - mau b: 1 2
 Nhap phan so tu c - mau d: 1 3
 tong: 5/6
 tich: 1/6
 thuong: 3/2
 hieu: 1/6
+```
 
 ### d. Ngày kế tiếp
 
@@ -123,6 +125,7 @@ Nếu trùng phòng ban → sắp xếp ID giảm dần
 
 Ví dụ:
 
+```py
 tong thuc lanh: 48500000
 Nhan vien co luong co ban thap nhat:
 NV007 - Do Van G - IT - 5000000 - 1300000 - Thuc lanh: 6300000
@@ -130,7 +133,7 @@ So nhan vien co thuong >= 1.200.000: 4
 Danh sach nhan vien sau sap xep:
 NV003 - Le Van C - Finance - 6000000 - 2000000 - Thuc lanh: 8000000
 NV006 - Bui Thi F - Finance - 6000000 - 800000 - Thuc lanh: 6800000
-
+```
 
 ## 📝 Task 4 – Quản lý sinh viên
 
@@ -141,7 +144,7 @@ Nhập: MSSV, họ tên, điểm Toán, Văn, Lý, Hóa
 Xuất: điểm trung bình (TB), xếp loại.
 
 Ví dụ:
-
+```py
 Nhap MSSV: 22520001
 Nhap ho va ten: Nguyen Van A
 Nhap diem Toan: 7.5
@@ -151,13 +154,19 @@ Nhap diem Hoa: 7
 
 Diem trung binh: 7.25
 Xep loai: Kha
-
+```
 ## ✅ Tổng kết
 
 Task1.displayed() → minh họa nạp chồng hàm
+
 Task2.displayed_task1() → rút gọn phân số
+
 Task2.displayed_task2() → so sánh phân số
+
 Task2.displayed_task3() → tính toán 2 phân số
+
 Task2.displayed_task4() → tìm ngày kế tiếp
+
 Task2.displayed_task5() → quản lý nhân viên
+
 Task2.displayed_task6() → quản lý sinh viên
