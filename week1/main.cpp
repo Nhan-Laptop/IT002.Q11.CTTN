@@ -273,7 +273,7 @@ class Task2{
 			student S;
 	        cout << "Nhap MSSV: ";
 	        cin >> S.mssv;
-	        cin.ignore(); // b? ký t? xu?ng dòng còn l?i
+	        cin.ignore(); 
 	
 	        cout << "Nhap ho va ten: ";
 	        getline(cin, S.ho_va_ten);
