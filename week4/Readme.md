@@ -27,16 +27,16 @@ Bộ bài tập OOP C++ gồm 5 bài nhỏ để luyện lớp, đối tượng 
 Sử dụng g++ (C++17):
 
 ### Bài 1
-'g++ -std=c++17 -O2 -Wall -Wextra -o bt1 main.cpp && ./bt1'
+`g++ -std=c++17 -O2 -Wall -Wextra -o bt1 main.cpp && ./bt1`
 
 ### Bài 2
-'g++ -std=c++17 -O2 -Wall -Wextra -o bt2 main2.cpp && ./bt2'
+`g++ -std=c++17 -O2 -Wall -Wextra -o bt2 main2.cpp && ./bt2`
 
 ### Bài 4
-'g++ -std=c++17 -O2 -Wall -Wextra -o bt4 main4.cpp && ./bt4'
+`g++ -std=c++17 -O2 -Wall -Wextra -o bt4 main4.cpp && ./bt4`
 
 ### Bài 5
-'g++ -std=c++17 -O2 -Wall -Wextra -o bt5 main5.cpp && ./bt5'
+`g++ -std=c++17 -O2 -Wall -Wextra -o bt5 main5.cpp && ./bt5`
 
 
 > Trên Windows (MinGW), chạy btX.exe.
